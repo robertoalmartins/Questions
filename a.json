@@ -1,0 +1,94 @@
+﻿{  
+    "List1": [  
+    {  
+        "id": "1",  
+        "dateCreated": "2013-01-31T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE PESAGEM",  
+        "question": "Transferir os insumos solicitados na Ordem de Produção para a antecâmara de pesagem."  
+    },
+    {  
+        "id": "2",  
+        "dateCreated": "2013-01-30T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE PESAGEM",  
+        "question": "Sanitizar as embalagens externas."  
+    },
+    {  
+        "id": "3",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE PESAGEM",  
+        "question": "Conferir nome e lote em todas as embalagens de todos os insumos requisitados."  
+    },
+    {  
+        "id": "4",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE PESAGEM",  
+        "question": "Verificar condições e registros de limpeza da área e dos equipamentos que serão utilizados no processo."  
+    },
+    {  
+        "id": "5",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": "A sala está identificada com etiqueta GAR049-Identificação de Áreas e Equipamentos em Processo preenchida corretamente?"  
+    },
+    {  
+        "id": "6",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": "A área está limpa? "  
+    },
+    {  
+        "id": "7",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": "A etiqueta GAR006 - Limpo foi preenchida corretamente? "  
+    },
+    {  
+        "id": "8",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": "Há registro de limpeza e produção no formulário GAR011? "  
+    },
+    {  
+        "id": "9",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": "As balanças estão limpas e niveladas?" 
+    },
+    {  
+        "id": "10",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": " Os utensílios estão separados e limpos?"    
+    },
+    {  
+        "id": "11",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DE PESAGEM DE MATÉRIAS-PRIMAS",  
+        "question": "A área está livre de materiais utilizados em produtos anteriores? " 
+    },
+    {  
+        "id": "12",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DOS INSUMOS",  
+        "question": "Todas matérias-primas pesadas apresentam etiqueta de identificação emitida pelo sistema, correspondente ao lote a ser manipulado?" 
+    },
+    {  
+        "id": "13",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DOS INSUMOS",  
+        "question": "A conferência de pesagem foi realizada? " 
+    },
+    {  
+        "id": "14",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DOS INSUMOS",  
+        "question": "A pesagem foi realizada há 3 dias ou menos?" 
+    },
+    {  
+        "id": "15",  
+        "dateCreated": "2013-01-29T15:46:04-02:00" ,
+        "title": "CHECK-LIST DE LIBERAÇÃO DOS INSUMOS",  
+        "question": "Todas as embalagens das matérias-primas pesadas estão identificadas com etiquetas emitidas pela impressora da balança contendo lote da matéria-prima?" 
+    }
+    ]  
+}  
